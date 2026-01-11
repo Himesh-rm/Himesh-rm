@@ -10,7 +10,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himesh-rupchandani-1049bb377/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:rupchandanihimesh69@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white)](https://www.instagram.com/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918866096042)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/918866096042)
+
 
 
 ## 👁️ Profile Counter:
