@@ -5,8 +5,10 @@
 - 🧩 Enjoy turning problems into logical, efficient solutions
 - 🚀 Believer in consistent learning, discipline, and growth
 
+## 👁️ Profile Counter:
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=Himesh-rm&label=Profile%20views&color=0e75b6&style=flat&base=0)
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Himesh-rm&label=Profile%20views&color=0e75b6&style=flat&base=0)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himesh-rupchandani-1049bb377/)
