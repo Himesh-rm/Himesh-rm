@@ -5,7 +5,7 @@ Improving my C++ programming skills<br>Practicing Data Structures & Algorithms<b
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/himesh______16) [LinkedIn](https://www.linkedin.com/in/himesh-rupchandani-1049bb377/)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)] [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/himesh-rupchandani-1049bb377/)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)] [![LinkedIn] (https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)] (https://www.linkedin.com/in/himesh-rupchandani-1049bb377/)
 (mailto:rupchandanihimesh69@gmail.com) 
 
 # 💻 Tech Stack:
