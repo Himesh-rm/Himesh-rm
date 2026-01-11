@@ -36,5 +36,7 @@
 
   
 ![Coding Animation](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Hello](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=500&color=0A66C2&center=true&vCenter=true&width=500&lines=Hello+World!;Welcome+to+my+GitHub)
 
 
