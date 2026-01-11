@@ -21,8 +21,7 @@ Improving my C++ programming skills<br>Practicing Data Structures & Algorithms<b
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Himesh-rm&label=Profile%20views&color=0e75b6&style=flat&base=0" />
 </p>
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Himesh-rm.Himesh-rm)
-![Profile Counter](https://profile-counter.glitch.me/Himesh-rm/count.svg)
+
 
 
 ---
