@@ -19,18 +19,15 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Himesh-rm&label=Profile%20views&color=0e75b6&style=flat&base=0)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Himesh-rupchandani&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Himesh-rupchandani&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Himesh-rupchandani&theme=dark&hide_border=false&layout=compact)
-## GitHub Stats Test
+## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Himesh-rupchandani)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Himesh-rupchandani&show_icons=true&theme=dark&v=1)  
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=Himesh-rupchandani)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Himesh-rupchandani&theme=dark&v=1)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Himesh-rupchandani&layout=compact&theme=dark&v=1)  
 
 
-  
 # 💻 Tech Stack:
 ### Languages and Tools:
 
