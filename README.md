@@ -16,7 +16,7 @@
 
 
 ## 👁️ Profile Counter:
-![Profile Views](https://komarev.com/ghpvc/?username=Himesh-rm&label=Profile%20views&color=0e75b6&style=flat&base=0)
+![Profile Views](https://komarev.com/ghpvc/?username=Himesh-rupchandani&label=Profile%20views&color=0e75b6&style=flat&base=0)
 
 # 💻 Tech Stack:
 ### Languages and Tools:
